@@ -4,8 +4,8 @@ title:  "Single cell & Spatial transcriptomics"
 date:   2022-01-27
 excerpt: "Basic concepts & Bioinformatics analysis"
 tag:
-- sample
-- post
+- genomics
+- bioinformatics
 - video
 comments: true
 ---
