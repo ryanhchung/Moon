@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Heechul (Ryan) Chung
-tags: [about, Jekyll, theme, moon]
+tags: [Intro, Bio]
 date: 2022-01-26
 comments: false
 ---
