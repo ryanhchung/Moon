@@ -23,4 +23,7 @@ Furthermore, I have been into weight training for the past five years. Recently,
 <center>{% include gallery images=images caption="Happy crew members after several competition rounds" cols=2 %}<center>
     
 <img src="/assets/img/BJJ1.jpeg">
-<center>{% include gallery images=images caption="With Lee Joongi, a famous Korean actor, and his younger sister." cols=2 %}<center>
+<center>{% include gallery images=images caption="With Lee Joongi, a famous korean actor, and his younger sister." cols=2 %}<center>
+
+<img src="/assets/img/BJJ2.jpeg">
+<center>{% include gallery images=images caption="Concentrating on rolling" cols=2 %}<center>
