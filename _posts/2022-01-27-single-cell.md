@@ -9,11 +9,11 @@ tag:
 - video
 comments: true
 ---
-<iframe width="560" height="315" src="https://youtu.be/xbX49h7BiUU" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xbX49h7BiUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Basic concept of Single-cell RNA sequencing and the tutorial for Seurat R bioinformatics package.
 
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=vPE_wJsR4cU" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPE_wJsR4cU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Basic concept of Spatial transcriptomics.
 For Seurat Spatial transcriptomics, please refer to https://satijalab.org/seurat/articles/spatial_vignette.html
