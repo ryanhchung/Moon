@@ -3,7 +3,10 @@ layout: post
 title: "Regular physical activities for the healthy life"
 date: 2023-01-26
 excerpt: "BJJ & Weight Lifting"
-#tags: [BJJ, Workout]
+tag:
+- sample
+- post
+- video
 comments: true
 ---
 
