@@ -22,10 +22,10 @@ comments: false
 ### Sogang University, Seoul, Korea
 * BS in Computer Science & Life Science (Double Degree)
 
-### Northwestern University, Evanston, Illinois, USA
+### Northwestern University, Evanston, IL, USA
 * MS in Quantitative and Systems Biology
 
-### University of British Columbia, Vancouver, British Columbia, Canada
+### University of British Columbia, Vancouver, BC, Canada
 * Ph.D. in Interdisciplinary Oncology
 
 ---
