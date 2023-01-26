@@ -62,8 +62,6 @@ instagram:          ryan_heechul_chung
 #xmpp:              username@server.com
 #hackernews:        username
 
-google_site_verification: BanYmNmxRXhv4ruJuKZNiUuyWbVDHuh6e0Xa_ZTi9Mk
-
 # Gems
 gems:
   - jekyll-mentions
