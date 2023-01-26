@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Markdown Syntax"
-date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title:  "Regular physical activities for the healthy life"
+date:   2022-01-26
+excerpt: "BJJ & Weight Lifting"
 tag:
 - markdown 
 - syntax
