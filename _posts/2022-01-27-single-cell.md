@@ -9,7 +9,7 @@ tag:
 - video
 comments: true
 ---
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=xbX49h7BiUU" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://youtu.be/xbX49h7BiUU" frameborder="0"> </iframe>
 
 Basic concept of Single-cell RNA sequencing and the tutorial for Seurat R bioinformatics package.
 
