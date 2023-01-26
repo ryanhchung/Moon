@@ -28,8 +28,3 @@ Furthermore, I have been into weight training for the past five years. Recently,
 <img src="/assets/img/BJJ3.jpeg">
 <center>{% include gallery images=images caption="Stripe promotion from master Gyeongseop Lee (Tri-Force BJJ black belt)" cols=2 %}<center>
 
-<img src="/assets/img/BJJ2.jpeg">
-<center>{% include gallery images=images caption="Concentrating on rolling" cols=2 %}<center>
-
-<img src="/assets/img/BJJ3.jpeg">
-<center>{% include gallery images=images caption="Stripe promotion from master Gyeongseop Lee (Tri-Force BJJ black belt)" cols=2 %}<center>
