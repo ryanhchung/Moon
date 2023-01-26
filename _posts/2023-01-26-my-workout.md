@@ -4,9 +4,9 @@ title:  "Regular physical activities for the healthy life"
 date:   2022-01-26
 excerpt: "BJJ & Weight Lifting"
 tag:
-- syntax
-- sample
-- jekyll
+- Bjj
+- Workout
+- Healthylife
 comments: true
 ---
 
