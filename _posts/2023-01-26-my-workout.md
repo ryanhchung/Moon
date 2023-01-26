@@ -17,7 +17,7 @@ Furthermore, I have been into weight training for the past five years. Recently,
 ## Brazilian Jiu-Jitsu 
 
 ### Jiujitsu Booraders -> Serafin BJJ -> MOB BJJ 
-### Blue belt 2-stripes under -56kg Korean National Athlete Gyeongseop Lee
+### Blue belt with 2-stripes under -56kg Korean National Athlete Gyeongseop Lee
 
 <img src="/assets/img/BJJ4.jpeg">
 <center>{% include gallery images=images caption="Happy crew members after several competition rounds" cols=2 %}<center>
