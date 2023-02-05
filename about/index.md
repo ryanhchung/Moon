@@ -41,9 +41,9 @@ comments: false
 
 ## Where am I?
 
-{% capture images %} https://w.namu.la/s/7c5cc19850f29b18ec924f9941bc9bbda94ec368c07a17bcc476307a6910ff1a1ae17941ea36145283be9170b7a0684a30b1b9ced8165f53e3ac14a05c7cc33b4c5b45860d91af007193fe5c863c06f65646073727d79aa839d00b0a79887bcb82c5312034b5853ffebc9c04aa7e025a
-https://w.namu.la/s/e8534b294da0c8e7a84d77243fa94b2bae6eb25ec83b1b59225ffe0d35342ea257779f60159f4de93a518d806ae6cd3b8e111920508f7aafe77a4e1c94288d4ea40f501369253a58159b1690374b693fa4903d89976b37c86837e9e0ca0657009935842e3b95c2759f3a22a73c55d8ea
-{% endcapture %}
+<img src="/assets/img/Vancouver.1.jpeg">
+<img src="/assets/img/Vancouver2.jpeg">
+<img src="/assets/img/ubc.jpeg">
 <center>{% include gallery images=images caption="Vancouver, British Columbia, Canada" cols=2 %}<center>
 
 
