@@ -47,5 +47,5 @@ comments: false
 <center>{% include gallery images=images caption="Vancouver, British Columbia, Canada" cols=2 %}<center>
 
 
-Please do not hesitate to <a href="mailto:{{ heechulrchung@gmail.com }}=">contact me</a> or visit my Linkedin for more information. 
+Please do not hesitate to <a href="mailto:{{ heechulrchung@gmail.com }}=">contact me(1)</a> <a href="mailto:{{ rhcchung@student.ubc.ca }}=">contact me(2)</a>or visit my Linkedin for more information. 
       
