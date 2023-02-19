@@ -12,7 +12,7 @@ comments: false
 <img src="/assets/img/Ryan1.jpeg">
 * My name is Heechul Chung. I also go by Ryan Chung.
 * I'm from South Korea. I speak both Korean and English fluently. Also, I understand basic Japanese too.
-* I'm a Ph.D. student under [Dr. Colin Collins](https://collinslab.med.ubc.ca/), University of British Columbia.
+* I'm a Ph.D. student under [Dr. Colin Collins](https://collinslab.med.ubc.ca/), Faculty of Medicine, University of British Columbia.
 * Also, I work as a graduate research assistant at the [Laboratory for Advanced Genome Analysis (LAGA)](https://www.prostatecentre.com/node/255).
 * My current research: Translational Cancer Genomics / Computational Biology / Precision Oncology / Machine Learning
 
