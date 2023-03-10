@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Regular physical activities for the healthy life"
-date:   2022-01-26
+date:   2023-01-26
 excerpt: "BJJ & Weight Lifting"
 tag:
 - Bjj
