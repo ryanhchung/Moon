@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Single cell & Spatial transcriptomics"
-date:   2022-01-27
+date:   2023-01-27
 excerpt: "Basic concepts & Bioinformatics analysis"
 tag:
 - genomics
