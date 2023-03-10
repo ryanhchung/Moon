@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "Curriculum_Vitae"
+title:  "Projects"
 date:   2023-03-01
+excerpt: "Academic & Medical Industry Research experiences"
 project: true
 tag:
 - Bio
 - CV
 comments: true
 ---
+
 ## Research Keywords
 Computational Biology, Cancer Genomics, Single-Cell and Spatial Transcriptomics, Tumor Microenvironment, Machine Learning for Precision Medicine
 
