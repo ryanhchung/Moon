@@ -4,7 +4,7 @@ bio:                'Former computational biologist / currently a Ph.D. student 
 description:        "Vancouver / Seoul"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/hcchung.jpeg'
+logo:               'assets/img/heechulchung_rendered.jpg'
 background:         https://upload.wikimedia.org/wikipedia/commons/d/d1/Robert_HN_Ho_Research_Centre.jpg
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
