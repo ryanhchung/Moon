@@ -6,4 +6,4 @@ date: 2023-01-26
 comments: false
 ---
 
-<a href="https://ryanhchung.github.io/CV_Heechul_Chung.pdf" target="_blank">PDF</a>
+## <center><a href="https://ryanhchung.github.io/CV_Heechul_Chung.pdf" target="_blank">CV_Heechul_Chung</a></center>
