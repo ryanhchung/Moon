@@ -6,4 +6,4 @@ date: 2024-10-10
 comments: false
 ---
 
-## <center><a href="https://ryanhchung.github.io/CV_Heechul_Chung.pdf" target="_blank">CV_Heechul_Chung</a></center>
+## <center><a href="https://ryanhchung.github.io/CV_Heechul Chung.pdf" target="_blank">CV_Heechul_Chung</a></center>
