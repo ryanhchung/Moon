@@ -2,7 +2,7 @@
 layout: page
 title: Curriculum_Vitae
 tags: [Intro, Bio]
-date: 2023-01-26
+date: 2024-10-10
 comments: false
 ---
 
